@@ -1,4 +1,6 @@
+
 ### Hi there 👋
+<img src="https://github.com/thisispriyanshugupta/thisispriyanshugupta/assets/87561259/ebe768df-1d8a-428a-ab5f-1dfaf18eef16" width="540" height="378" />
 
 <!--
 **thisispriyanshugupta/thisispriyanshugupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
