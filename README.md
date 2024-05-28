@@ -1,6 +1,6 @@
 ### Hi there! I'm Priyanshu Gupta 👋
 
-I'm an AI enthusiast with a passion for Python programming, artificial intelligence, and graphic design. Leveraging technology to create impactful designs and AI solutions is my forte.
+Tech enthusiast and creative mind exploring the fusion of AI, dreams, and literature. I'm passionate about crafting innovative projects that showcase the dynamic interplay between technology and human expression.
 
 <!-- Use the "img" tag with "max-width" and "height" set to "auto" for responsiveness -->
 <img src="https://github.com/thisispriyanshugupta/thisispriyanshugupta/assets/87561259/ebe768df-1d8a-428a-ab5f-1dfaf18eef16" style="max-width: 100%; height: auto;" />
