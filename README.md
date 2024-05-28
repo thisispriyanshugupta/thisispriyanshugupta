@@ -8,7 +8,7 @@ I'm an AI enthusiast with a passion for Python programming, artificial intellige
 ---
 🌟 **Featured Projects**
 
-1. **Khwaab Dream Story Generator Collaboration Project**: 🌌 A dreamy collaboration project where users can input descriptions of their dreams and receive beautifully narrated stories.
+1. **Khwaab Dream Story Generator Collaboration Project**: 🌌 A dreamy collaboration project where users can input descriptions of their dreams and receive beautifully narrated fictional stories.
 
 2. **Beats and Books Collaboration Project**: 📚🎶 Seamlessly bridge literary and musical worlds with an app that suggests songs based on your favorite books, creating a unique multimedia experience.
 3. **Webpage Question Answering Collaboration Project**: 🤔 Develop a system for answering questions based on webpage content, bringing intelligence to web browsing.
