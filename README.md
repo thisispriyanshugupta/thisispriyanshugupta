@@ -5,7 +5,7 @@
 
 
 <!--
-**thisispriyanshugupta/thisispriyanshugupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thisispriyanshugupta/thisispriyanshugupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 📫 You can reach me via email at priyanshu.gupta31415@gmail.com or connect with me on LinkedIn.
 😄 Pronouns: She/Her
 ⚡ Fun fact: I enjoy experimenting with generative art in my free time!
--->
+
