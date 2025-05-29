@@ -1,7 +1,6 @@
 ### Hi there! I'm Priyanshu Gupta 👋
 
 Tech enthusiast working with Python, NLP, and AI to build practical and creative projects.
-
 <!-- Use the "img" tag with "max-width" and "height" set to "auto" for responsiveness -->
 <img src="https://github.com/thisispriyanshugupta/thisispriyanshugupta/assets/87561259/ebe768df-1d8a-428a-ab5f-1dfaf18eef16" style="max-width: 100%; height: auto;" />
 
